@@ -217,7 +217,7 @@
                 id: 1,
                 scenario: "A tech company is developing a new smart home security system. They need to understand the initial concerns and expectations of **first-time homeowners** regarding home safety and their willingness to adopt new technology.",
                 taskPrompt: "Generate 5 open-ended user interview questions for this scenario.",
-                defaultPrompt: "Generate 5 open-ended user interview questions about smart home security for first-time homeowners.",
+                defaultPrompt: "Enter prompt here",
                 modifier: null,
                 outputs: [
                     {
